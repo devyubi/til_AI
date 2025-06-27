@@ -6,7 +6,7 @@
 - 2. Claude 로 기획 정리
 - 3. 생성된 문서를 Cursor Ai 에서 기본 형 생성 요청
 - 4. 디자인 Figma, V0 서비스
-- 5. 배포 Vercel, AWS (Amazone Web Service)
+- 5. 배포 Vercel, AWS (Amazon Web Service)
 - 6. DB 는 Supabase
 
 ## 2. 최근 기획의 트렌드
